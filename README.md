@@ -1,5 +1,5 @@
 [![Slam]
-# Deepak Clouds Mirror
+# DataGOD
 ![GitHub Repo stars](https://img.shields.io/github/stars/blackdeep04/deepak-clouds-mirror?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/blackdeep04/deepak-clouds-mirror?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/blackdeep04/deepak-clouds-mirror/deepak-clouds-mirror)
@@ -12,23 +12,7 @@
 ![GitHub](https://img.shields.io/github/license/blackdeep04/deepak-clouds-mirror)
 [![Slam Mirror Support](https://img.shields.io/badge/Deepak%20Clouds%20Mirror-support%20group-blue)](https://telegram.dog/cloudsmirror)
 
-**Deepak Clouds Torrent** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
-[Supported Groups]
-# Features supported:
-## Additional Features
-- Get detailed info about replied media (Only for Telegram file)
-- Speedtest with picture results
-- Stop duplicate cloning Google Drive
-- Mega support Added
-- Limiting size Torrent/Direct, Mega, cloning Google Drive support
-- Sudo with Database support
-- Multiple Trackers support
-- Extracting **tar.xz** support
-- Create Tar Google Drive folder
-- Counting file/folder
-- Shell and Executor
-- View Link button
-- Torrent search supported:
+
 ```
 nyaa, sukebei, 1337x, piratebay, tgx,
 yts, eztv, torlock, rarbg
